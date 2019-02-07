@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OrnekCalismalarimO.iml" filepath="$PROJECT_DIR$/OrnekCalismalarimO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrnekCalismalarim.iml" filepath="$PROJECT_DIR$/OrnekCalismalarim.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ornekler/Ornekler.iml" filepath="$PROJECT_DIR$/Ornekler/Ornekler.iml" />
     </modules>
   </component>
