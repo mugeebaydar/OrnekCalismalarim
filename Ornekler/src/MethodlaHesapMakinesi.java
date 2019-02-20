@@ -11,7 +11,6 @@ public class MethodlaHesapMakinesi {
         System.out.println("********************************************");
         System.out.println(islemler);
         System.out.println("********************************************");
-
         while (true) {
             System.out.print("İşlem seciniz: ");
             String islem = input.nextLine();
