@@ -1,3 +1,5 @@
+package ornekler;
+
 public class AsalSayiBulma {
     public static void main(String[] args) {
 

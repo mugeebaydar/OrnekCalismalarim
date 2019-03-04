@@ -1,3 +1,5 @@
+package ornekler;
+
 import java.util.Scanner;
 
 public class Hipotenus {

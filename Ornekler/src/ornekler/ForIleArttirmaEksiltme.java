@@ -1,3 +1,5 @@
+package ornekler;
+
 public class ForIleArttirmaEksiltme {
     public static void main(String[] args) {
         //10dan geriye birer birer eksiltme
